@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.ekibimiz img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.galeri img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.navbar-nav a:hover{
+    color: aquamarine;
+}
+@media (max-width: 768px) { 
+    .card{
+        margin: 0 auto;
+        
+    }
+ }
